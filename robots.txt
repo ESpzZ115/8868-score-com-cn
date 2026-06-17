@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ESpzZ115.github.io/8868-score-com-cn/sitemap.xml
